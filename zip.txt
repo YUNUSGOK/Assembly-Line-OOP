@@ -1,0 +1,1 @@
+Compress-Archive -Path .\code\project\parts\logics\Builder.java,.\code\project\parts\logics\Supplier.java, .\code\project\parts\logics\Fixer.java, .\code\project\parts\logics\Inspector.java, .\code\project\utility\Common.java, .\code\project\components\Factory.java -DestinationPath .\hw2 -Force
